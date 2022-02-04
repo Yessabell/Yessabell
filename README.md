@@ -8,3 +8,4 @@
 Yessabell/Yessabell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Install-Package Microsoft.Extensions.DependencyInjection -Version 6.0.2-mauipre.1.22054.8
